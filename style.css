@@ -124,11 +124,6 @@ body{
     margin-top: 3rem;
 }
 
-.attribution a{
-    color: hsl(228, 45%, 44%);
-    text-decoration: none;
-}
-
 @media (max-width: 576px) {
      .content{
       width: 100%;
